@@ -47,7 +47,8 @@
     "port"=>"",//邮箱服务器端口号 默认为25
     "charset"=>"UTF-8"//字符类型 默认为 UTF-8
 ],
-"MailRun"=> false//是否启用邮箱服务 默认不启用 true:启用 false:不启用
+"MailRun"=> false,//是否启用邮箱服务 默认不启用 true:启用 false:不启用
+"showSame"=>true //是否打印未更新时的提示 默认打印 true:打印 false:不打印
 ```
 
 ## Run In Your Device
