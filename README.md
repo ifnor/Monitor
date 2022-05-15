@@ -1,10 +1,5 @@
 # Monitor
-<style>
-    html{
-        background:#f5d58f;
-    }
-</style>
-[TOC]
+
 ## What 
 这是一个基于PHP的网页监控程序。环境是 PHP 7.4.29
 > ###### 目前可用于：
